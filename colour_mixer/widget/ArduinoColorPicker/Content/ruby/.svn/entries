@@ -1,0 +1,54 @@
+8
+
+dir
+8561
+svn://idenet.national.core.bbc.co.uk/csd/arduino/trunk/ColourMixer/widget/ArduinoColorPicker/Content/ruby
+svn://idenet.national.core.bbc.co.uk
+
+
+
+2008-04-21T12:50:18.863683Z
+7768
+matth
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bad851b9-d107-0410-8aa3-8ee39f58e71d
+
+arduino_serial_server.rb
+file
+
+
+
+
+2008-05-23T15:52:12.000000Z
+cd6990e9520428a153ae37b4900abad0
+2008-04-21T12:50:18.863683Z
+7768
+matth
+has-props
+
+arduino_color_pickr.rb
+file
+
+
+
+
+2008-05-23T15:52:12.000000Z
+348f226f03f797141c8f611815e2c9e3
+2008-04-21T12:50:18.863683Z
+7768
+matth
+has-props
+
